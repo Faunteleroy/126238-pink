@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Mary Voronova](https://up.htmlacademy.ru/adaptive/13/user/126238).
-* Наставник: `Неизвестно`.
+* Наставник: `Повторное прохождение`.
 
 ---
 
